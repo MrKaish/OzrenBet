@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> OzrenBet is a Sports Betting website which was made for a School Project for my Programming Class. 
     <br> 
 </p>
 
@@ -33,18 +33,13 @@
 - [Acknowledgments](#acknowledgments)
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
+OzrenBet is a Sports Betting website, made for a School Project. Sports Betting is huge in Bosnia and Herzegovina, being one of the largest industries. 
+This Project was never meant to be fully functional, due to certain limitations (i.e Payment Systems and getting actual Offers from Betters) but it is made to show what a High School Junior student could make within a timeline of 3 weeks.
 
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section 
-should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product. 
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
-
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution. 
+For now the Project is planned to have: 
+1. Basic Betting System
+2. Basic Payment/Withdrawal System - using my own "payment" system, basically just FireStore collection with generated payment Tokens, similar to xBet. 
+3. Basic Interface :)
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 This section is used to describe potential solutions. 
