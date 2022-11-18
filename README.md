@@ -1,8 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://ibb.co/SxKtMKx" alt="Project logo"></a>
+ <img src="https://i.ibb.co/4fj8Xjf/New-Project-1.png" alt="Project logo"></a>
 </p>
-<h3 align="center">Project Title</h3>
+<h3 align="center">OzrenBet</h3>
 
 <div align="center">
 
