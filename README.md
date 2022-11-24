@@ -50,8 +50,14 @@ completed, and understood, it becomes easier to provide a solution for solving t
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 - What are the dependencies of your project?
+
+  This project is dependant on Firebase/Firestore and React
 - Describe each limitation in detailed but concise terms
+
+  The main limitation is the payment system. Due to this being a school project, I did not implement any payment systems (ie. Stripe) but have instead used a custom-built payment system similar to xBet (12 character alphanumeric code coresponding to a certain cash ammount)
 - Explain why each limitation exists
+
+  That limitation exists because I don't really have enough cash to test it out, and I wasn't bothered to use stripe test
 - Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
 - Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if 
 appropriate, describe how these limitations could point to the need for further research.
