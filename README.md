@@ -42,6 +42,7 @@ For now the Project is planned to have:
 3. Basic Interface :)
 
 ## 💡 Idea / Solution <a name = "idea"></a>
+The solution for the given problem is to use Firebase/Firestore combination for the back end, with React.JS on the front end. Firebase provides us the opporutunity to use pre-defined functions to access the Authentification System, noSQL Database and a File Manager. Besides that, Firebase is asynchrous, proving us with a chance to use real-time modifications.
 This section is used to describe potential solutions. 
 
 Once the ideal, reality, and consequences sections have been 
